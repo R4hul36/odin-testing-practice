@@ -1,4 +1,4 @@
-import { capitalizeFirstChar } from "../src/capitalize";
+import { capitalizeFirstChar } from "../src/capitalize.js";
 
 
 test("check if first character is capitalized", () => {
